@@ -1,0 +1,5 @@
+c:\users\nadeem\documents\visual studio 2015\Projects\consoleCompiler\consoleCompiler\bin\Debug\consoleCompiler.exe.config
+c:\users\nadeem\documents\visual studio 2015\Projects\consoleCompiler\consoleCompiler\bin\Debug\consoleCompiler.exe
+c:\users\nadeem\documents\visual studio 2015\Projects\consoleCompiler\consoleCompiler\bin\Debug\consoleCompiler.pdb
+c:\users\nadeem\documents\visual studio 2015\Projects\consoleCompiler\consoleCompiler\obj\Debug\consoleCompiler.exe
+c:\users\nadeem\documents\visual studio 2015\Projects\consoleCompiler\consoleCompiler\obj\Debug\consoleCompiler.pdb
