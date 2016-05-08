@@ -1,9 +1,0 @@
-<XamlCompilerSaveState>
-  <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\users\naughty nadeem qasmi\documents\visual studio 2015\projects\windowphne\windowphne\obj\x86\debug\intermediatexaml\windowphne.exe" HashGuid="391155c9-8b70-73a5-8a8d-d788a03f232d" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\mstestframework\14.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.unittestframework.dll" HashGuid="b2f6f25d-f779-3e1e-460e-1dcf57c30471" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
-    <ReferenceAssembly PathName="c:\users\naughty nadeem qasmi\documents\visual studio 2015\projects\windowphne\windowphne\bin\x86\debug\mntone.data.amf.winmd" HashGuid="b87a494a-ee33-d189-8471-f7edc1fec120" />
-    <ReferenceAssembly PathName="c:\users\naughty nadeem qasmi\documents\visual studio 2015\projects\windowphne\packages\rtmpclient.0.8.5.0\lib\wpa81\x86\mntone.rtmp.winmd" HashGuid="5fa2ccc7-7a86-36cb-9976-db924b37307d" />
-  </ReferenceAssemblyList>
-</XamlCompilerSaveState>

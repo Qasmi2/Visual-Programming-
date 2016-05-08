@@ -1,1 +1,0 @@
-c:\users\naughty nadeem qasmi\documents\visual studio 2015\Projects\UniversalApp\UniversalApp\UniversalApp.Windows\UniversalApp.Windows.csproj;neutral
