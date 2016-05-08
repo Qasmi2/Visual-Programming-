@@ -1,0 +1,8 @@
+C:\Users\Naughty Nadeem Qasmi\Desktop\rtmp-mediaplayer-master\rtmp-mediaplayer\LibMediaplayer.Windows\bin\Debug\CDR.LibRTMP.Media.dll
+C:\Users\Naughty Nadeem Qasmi\Desktop\rtmp-mediaplayer-master\rtmp-mediaplayer\LibMediaplayer.Windows\bin\Debug\CDR.LibRTMP.Media.pdb
+C:\Users\Naughty Nadeem Qasmi\Desktop\rtmp-mediaplayer-master\rtmp-mediaplayer\LibMediaplayer.Windows\bin\Debug\Bass.Net.dll
+C:\Users\Naughty Nadeem Qasmi\Desktop\rtmp-mediaplayer-master\rtmp-mediaplayer\LibMediaplayer.Windows\bin\Debug\CDR.LibRTMP.dll
+C:\Users\Naughty Nadeem Qasmi\Desktop\rtmp-mediaplayer-master\rtmp-mediaplayer\LibMediaplayer.Windows\bin\Debug\CDR.LibRTMP.pdb
+C:\Users\Naughty Nadeem Qasmi\Desktop\rtmp-mediaplayer-master\rtmp-mediaplayer\LibMediaplayer.Windows\obj\Debug\LibMediaplayer.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Naughty Nadeem Qasmi\Desktop\rtmp-mediaplayer-master\rtmp-mediaplayer\LibMediaplayer.Windows\obj\Debug\CDR.LibRTMP.Media.dll
+C:\Users\Naughty Nadeem Qasmi\Desktop\rtmp-mediaplayer-master\rtmp-mediaplayer\LibMediaplayer.Windows\obj\Debug\CDR.LibRTMP.Media.pdb
